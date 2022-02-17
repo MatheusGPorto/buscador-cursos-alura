@@ -1,5 +1,5 @@
 {
-    "name": "Matheusgporto/buscador-cursos",
+    "name": "matheusgporto/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "autoload": {
