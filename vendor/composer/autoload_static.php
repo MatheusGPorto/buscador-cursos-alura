@@ -235,6 +235,7 @@ class ComposerStaticInit2150ac98a8d03da10950591b01a825f5
     );
 
     public static $classMap = array (
+        'Alura\\BuscadorDeCursos\\Buscador' => __DIR__ . '/../..' . '/src/Buscador.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Normalizer' => __DIR__ . '/..' . '/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php',
